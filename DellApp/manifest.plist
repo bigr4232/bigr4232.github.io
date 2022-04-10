@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/s/dnyufbpzx81te5l/DellApp.ipa</string>
+					<string>https://bigr4232.github.io/DellApp/DellApp.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -37,7 +37,7 @@
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>Dell App</string>
+				<string>DellApp</string>
 			</dict>
 		</dict>
 	</array>
